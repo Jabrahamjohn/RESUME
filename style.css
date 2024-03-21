@@ -79,6 +79,7 @@ hr {
     border: none;
     background-color: lightgray;
     height: 1px;
+    animation: ease-in-out 1s infinite;
 }
 
 h1, h2, h3 {
