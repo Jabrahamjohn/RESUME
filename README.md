@@ -1,2 +1,3 @@
 # RESUME
-<p>This is a customized resume.</p>
+
+This is a customized resume.
