@@ -3,6 +3,7 @@ body {
     font-size: 10px;
     max-width: 960px;
     margin: auto;
+    background-color:rgba(248, 248, 255, 0.89);
 }
 
 h1 {
